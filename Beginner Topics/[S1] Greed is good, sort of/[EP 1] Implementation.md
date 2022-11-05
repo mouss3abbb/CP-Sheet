@@ -11,7 +11,6 @@ Implementation problems do not rely on the knowledge of any particular data stru
     <li><a href="https://codeforces.com/problemset/problem/479/C">CF 479 C</a></li>
     <li><a href="https://codeforces.com/problemset/problem/1385/C">CF 1385 C</a></li>
     <li><a href="https://codeforces.com/problemset/problem/1537/C">CF 1537 C</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/282/A">CF 282 A</a></li>
     <li><a href="https://codeforces.com/problemset/problem/263/A">CF 263 A</a></li>
     <li><a href="https://codeforces.com/problemset/problem/112/A">CF 112 A</a></li>
     <li><a href="https://codeforces.com/problemset/problem/281/A">CF 281 A</a></li>
