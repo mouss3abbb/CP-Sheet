@@ -33,5 +33,13 @@ C++ STL (Standard Template Library) is a powerful set of C++ template classes to
     <li><a href="https://codeforces.com/contest/525/problem/A">CF 525 A</a></li>
     <li><a href="https://codeforces.com/contest/1520/problem/D">CF 1520 D</a></li>
     <li><a href="https://codeforces.com/problemset/problem/782/A">CF 782 A</a></li>
+   <li><a href="https://codeforces.com/contest/75/problem/B">CF 75 B</a></li>
+   <li><a href="https://codeforces.com/contest/1526/problem/C2">CF 1526 C2</a></li>
+   <li><a href="https://codeforces.com/problemset/problem/501/B">CF 501 B</a></li>
+   <li><a href="https://codeforces.com/problemset/problem/343/B">CF 343 B</a></li>
+   <li><a href="https://codeforces.com/problemset/problem/1175/B">CF 1175 B</a></li>
+   <li><a href="https://codeforces.com/problemset/problem/158/C">CF 158 C</a></li>
+   <li><a href="https://codeforces.com/contest/1092/problem/D1">CF 1092 D1</a></li>
+   <li><a href="https://codeforces.com/contest/1092/problem/D2">CF 1092 D2</a></li>
 </ul>
 </details>
