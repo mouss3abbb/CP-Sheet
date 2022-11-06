@@ -20,8 +20,12 @@ Another sorting algorithm worth mentioning is [counting sort](https://www.geeksf
     <li><a href="https://codeforces.com/problemset/problem/1189/B">CF 1189 B</a></li>
     <li><a href="https://codeforces.com/problemset/problem/984/A">CF 984 A</a></li>
     <li><a href="https://codeforces.com/problemset/problem/339/A">CF 339 A</a></li>
-    <li><a href="https://codeforces.com/problemset/problem/977/C">CF 977 C</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/977/C">CF 977 C</a></li>    
     <li><a href="https://codeforces.com/problemset/problem/1174/B">CF 1174 B</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/1681/C">CF 1681 C</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/451/B">CF 451 B</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/479/C">CF 479 C</a></li>
+    <li><a href="https://codeforces.com/problemset/problem/1722/D">CF 1722 D</a></li>
 </ul>
 </details>
 <br/>
